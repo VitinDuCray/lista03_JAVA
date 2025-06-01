@@ -1,4 +1,4 @@
-package lista03;
+package lista03_JAVA;
 
 import java.util.Scanner;
 	public class E04_AreaTriangulo {
